@@ -68,6 +68,6 @@ A hunting and progression system for Minecraft servers with hunting zones, level
   <img src="https://skillicons.dev/icons?i=py,java,kotlin,js,aws,terraform,githubactions,linux,git&perline=9" alt="Python, Java, Kotlin, JavaScript, AWS, Terraform, GitHub Actions, Linux, Git">
 </p>
 
-<p align="center"><i>Currently learning more about Kubernetes and reverse engineering.</i></p>
+<p align="center"><i>Currently learning more about Machine learning and AI.</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="">
